@@ -21,6 +21,26 @@ footer {
     font-weight: bold;
 }
 
+main {
+    font-size: 20px;
+    padding-left: 7rem;
+    padding-right: 7rem;
+    text-align: justify;
+}
+
 img {
     border-radius: 20px;
+}
+
+p {
+    margin: 1rem;
+}
+
+div {
+    text-align: center;
+}
+
+.moral {
+    text-align: center;
+    font-weight: bold;
 }
