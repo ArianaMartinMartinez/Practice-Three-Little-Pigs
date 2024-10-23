@@ -12,9 +12,13 @@ header, main, footer {
     padding: 1rem;
 }
 
-header {
+header, footer {
     background-color: rgb(135, 245, 245);
     text-align: center;
+}
+
+footer {
+    font-weight: bold;
 }
 
 img {
