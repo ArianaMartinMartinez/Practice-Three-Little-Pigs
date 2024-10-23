@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+header, main, footer {
+    padding: 1rem;
+}
+
+header {
+    background-color: rgb(135, 245, 245);
+    text-align: center;
+}
+
+img {
+    border-radius: 20px;
+}
